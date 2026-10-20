@@ -1,0 +1,16 @@
+# Common Keil / 8051 assembler build artifacts
+Objects/
+Listings/
+*.obj
+*.lst
+*.map
+*.crf
+*.m51
+*.uvoptx
+*.uvguix.*
+*.bak
+*.tmp
+
+# Local scratch files
+.DS_Store
+Thumbs.db

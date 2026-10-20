@@ -1,0 +1,176 @@
+# Song Tables
+
+These tables were transcribed from the original course reference document, `song-tables.docx`. They are **supplementary references** and are **not** the three songs currently defined in `final/music-box.a51`.
+
+> Note: The data lines preserve the original notation from the reference document. They are not guaranteed to be directly assemblable or compatible with the final program without adaptation.
+
+## 兒歌小星星
+
+```text
+DB 4 252 68
+DB 4 252 68
+DB 4 253 131
+DB 4 253 131
+DB 4 253 200
+DB 4 235 200
+DB 4 253 131
+DB 4 0 0
+DB 4 253 52
+DB 4 253 52
+DB 4 253 10
+DB 4 253 10
+DB 4 252 173
+DB 4 252 173
+DB 4 252 68
+DB 4 0 0
+DB 4 253 52
+DB 4 253 52
+DB 4 253 131
+DB 4 253 131
+DB 4 253 10
+DB 4 253 10
+DB 4 252 173
+DB 4 0 0
+DB 4 252 68
+DB 4 252 68
+DB 4 253 131
+DB 4 253 131
+DB 4 253 200
+DB 4 235 200
+DB 4 253 131
+DB 4 0 0
+DB 4 253 52
+DB 4 253 52
+DB 4 253 10
+DB 4 253 10
+DB 4 252 173
+DB 4 252 173
+DB 4 252 68
+DB 4 0 0
+```
+
+## 豆豆龍 (宮崎駿 龍貓主題曲)
+
+```text
+DB 4 253 52
+DB 4 252 173
+DB 4 252 12
+DB 4 253 52
+DB 4 253 10
+DB 4 252 68
+DB 4 0 0
+DB 4 251 5
+DB 4 252 68
+DB 4 253 52
+DB 4 253 10
+DB 4 253 131
+DB 4 252 68
+DB 4 0 0
+DB 4 253 10
+DB 4 253 52
+DB 4 253 10
+DB 4 253 52
+DB 4 253 10
+DB 4 253 52
+DB 4 253 10
+DB 4 252 68
+DB 4 252 173
+DB 4 0 0
+DB 4 252 68
+DB 4 252 173
+DB 4 253 10
+DB 4 253 52
+DB 4 253 131
+DB 4 253 10
+DB 4 252 68
+DB 4 253 131
+DB 4 253 52
+DB 4 252 173
+DB 4 0 0
+DB 4 253 52
+DB 4 252 173
+DB 4 252 12
+DB 4 253 52
+DB 4 253 10
+DB 4 252 68
+DB 4 0 0
+DB 4 251 144
+DB 4 253 200
+DB 4 253 131
+DB 4 253 52
+DB 4 253 10
+DB 4 253 52
+DB 4 253 131
+DB 4 253 131
+DB 4 252 68
+DB 4 253 10
+DB 4 253 52
+DB 4 253 10
+DB 4 252 68
+DB 4 253 52
+DB 4 253 10
+DB 4 252 68
+DB 4 253 200
+DB 4 253 131
+DB 4 0 0
+DB 4 251 5
+DB 4 251 5
+DB 4 253 52
+DB 4 253 10
+DB 4 252 173
+DB 4 253 10
+DB 4 252 68
+```
+
+## 青花瓷(周杰倫)
+
+```text
+DB 4 252 173
+DB 4 252 68
+DB 4 251 144
+DB 4 252 68
+DB 4 252 68
+DB 4 251 144
+DB 4 252 68
+DB 4 252 68
+DB 4 251 144
+DB 4 252 68
+DB 4 251 144
+DB 4 251 5
+DB 4 252 173
+DB 4 252 68
+DB 4 251 144
+DB 4 252 68
+DB 4 252 68
+DB 4 251 144
+DB 4 252 68
+DB 4 252 68
+DB 4 253 10
+DB 4 252 173
+DB 4 252 68
+DB 4 252 68
+DB 4 251 5
+DB 4 251 144
+DB 4 253 10
+DB 4 253 10
+DB 4 253 10
+DB 4 252 173
+DB 4 253 10
+DB 4 253 10
+DB 4 252 173
+DB 4 253 10
+DB 4 253 131
+DB 4 253 10
+DB 4 253 10
+DB 4 253 10
+DB 4 253 10
+DB 4 252 173
+DB 4 252 173
+DB 4 252 173
+DB 4 252 173
+DB 4 252 173
+DB 4 252 68
+DB 4 253 10
+DB 4 252 173
+```
+
